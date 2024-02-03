@@ -10,4 +10,4 @@ Click on this link https://github.com/MohamedMaged5/Calculator_APP/blob/main/Cal
 
 # Development
 * Mohamed Maged developed the app by using Cubit as State Management.
-- Menna Zakaria made the logic of the calculator itself.
+- A teammate made the logic of the calculator itself.
